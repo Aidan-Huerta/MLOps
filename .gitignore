@@ -11,6 +11,8 @@ __pycache__/
 build/
 develop-eggs/
 data/
+models/*
+!models/.gitkeep
 dist/
 downloads/
 eggs/
