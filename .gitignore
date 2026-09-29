@@ -11,8 +11,7 @@ __pycache__/
 build/
 develop-eggs/
 data/
-models/*
-!models/.gitkeep
+01-Intro/models/
 dist/
 downloads/
 eggs/
