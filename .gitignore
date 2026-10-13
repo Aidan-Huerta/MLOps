@@ -12,6 +12,8 @@ build/
 develop-eggs/
 data/
 01-Intro/models/
+02-experiment-tracking/experiment_tracking/models/
+mlflow.db
 dist/
 downloads/
 eggs/
